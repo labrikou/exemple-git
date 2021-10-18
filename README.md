@@ -1,1 +1,1 @@
-# exemple-git
+Initialisation du fichier
